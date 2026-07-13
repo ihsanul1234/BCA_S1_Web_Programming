@@ -1,0 +1,18 @@
+h2{
+    font:green;
+    background-color:red;
+}
+h3{
+    font:blue;
+    background-color: brown;
+}
+p{
+    color:yellowgreen;
+}
+#id{
+    font-family: Calibri;
+}
+.class{
+    font-family: monospace;
+    color:black;
+}
