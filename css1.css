@@ -9,10 +9,10 @@ h3{
 p{
     color:yellowgreen;
 }
-#id{
+#id{ <!-- id can be used only once in a page -->
     font-family: Calibri;
 }
-.class{
+.class{ <!-- class can be used multiple times in a page -->
     font-family: monospace;
     color:black;
 }
